@@ -1,11 +1,14 @@
 # Superhero Battle Royale App
+
 ## Anyl Pascal, Daniel Smith, Dylan Girard, Morgan MacDonald
 
 ## Project Description
 
 Ever wondered which superhero, in an all out battle royale, would come out on top? Look no further than this full-stack MERN app!
 
-Create or choose a superhero, select an opponent, then pit the two against one another to see which is stronger in battle. This app uses a ExpressJS as a homemade API that includes many well known superheros, and handles our backend routing and functionality.
+Create or choose a superhero, select an opponent, then pit the two against one another to see which is stronger in battle. This app uses React/ReactBootstrap for front-end interface design. Our homemade API is built using ExpressJS, and handles our backend routing and functionality.
+
+![image](superhero-battle-royale/planning/superhero-header.jpg)
 
 ## Front-End Wireframes
 
@@ -13,7 +16,7 @@ Create or choose a superhero, select an opponent, then pit the two against one a
 
 ## Component Hierarchy
 
-
+![image](superhero-battle-royale/planning/component-hierarchy-project-3.png)
 
 ## Back-End Request-Response Cycle
 
@@ -27,20 +30,20 @@ Create or choose a superhero, select an opponent, then pit the two against one a
 
 **Minimum Viable Product Stories**
 
-- As a user, I want be greeted by a slick user interface that reminds me of cool comic book heroes, because I love comics.
+- As a user, I want be greeted by a slick interface that reminds me of cool comic book heroes, because I love comics.
 
 - As a user, I want to be able to choose from a plethora of heroes from both the Marvel and DC Universes, because they are all awesome.
 
 - As a user, I would like to create my own heroes with unique stats that can also do battle, because I like customization in my games.
 
-- As a user, I would also like to be able to delete old custom heroes, because I may want to discard them in the future.
+- As a user, I would also like to be able to update or delete old custom heroes, because I may want to change or discard them in the future.
 
-- I want to know who wins in a fight between any two fighters, because I want to know who's the strongest hero of them all.
+- I want to see the results of a fight between any two fighters, because I want to know who's the strongest hero of them all.
 
-**Streth Goals**
+**Stretch Goals**
 
 - As a user, I would like to have access to an about page because I want to learn more about the creators of this app.
 
 - As a user, I would like to be able to customize/create my own heroes in more detail using an external hero maker, because I love customization.
 
-- As a user, I would like to be able create a username/password so that my custom heroes are saved to my account, because I want to see use the again later on.
+- As a user, I would like to be able create a username/password so that my custom heroes are saved to my account, because I want to use them again later on.
