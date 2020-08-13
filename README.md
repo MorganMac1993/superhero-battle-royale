@@ -12,15 +12,13 @@ Create or choose a superhero, select an opponent, then pit the two against one a
 
 ## Front-End Wireframes
 
-
-
 ## Component Hierarchy
 
 ![image](superhero-battle-royale/planning/component-hierarchy-project-3.png)
 
 ## Back-End Request-Response Cycle
 
-![image](superhero-battle-royale/planning/request-response-rycle.png)
+![image](superhero-battle-royale/planning/request-response-cycle.png)
 
 ## JSON Response Example
 
