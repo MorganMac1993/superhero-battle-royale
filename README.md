@@ -12,6 +12,11 @@ Create or choose a superhero, select an opponent, then pit the two against one a
 
 ## Front-End Wireframes
 
+![image](superhero-battle-royale/planning/home-page.jpg)
+![image](superhero-battle-royale/planning/character-choose-pages.jpg)
+![image](superhero-battle-royale/planning/battle-royale-page.jpg)
+![image](superhero-battle-royale/planning/create-your-own-form.jpg)
+
 ## Component Hierarchy
 
 ![image](superhero-battle-royale/planning/hero-battle-app-component-hierarchy.png)
