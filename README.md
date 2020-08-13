@@ -14,7 +14,7 @@ Create or choose a superhero, select an opponent, then pit the two against one a
 
 ## Component Hierarchy
 
-![image](superhero-battle-royale/planning/component-hierarchy-project-3.png)
+![image](superhero-battle-royale/planning/hero-battle-app-component-hierarchy.png)
 
 ## Back-End Request-Response Cycle
 
