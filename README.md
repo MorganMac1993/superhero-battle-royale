@@ -33,7 +33,7 @@ Create or choose a superhero, select an opponent, then pit the two against one a
 
 **Minimum Viable Product Stories**
 
-- As a user, I want be greeted by a slick interface that reminds me of cool comic book heroes, because I love comics.
+- As a user, I want to be greeted by a slick interface that reminds me of cool comic book heroes, because I love comics.
 
 - As a user, I want to be able to choose from a plethora of heroes from both the Marvel and DC Universes, because they are all awesome.
 
